@@ -16,7 +16,7 @@ int main()
     cout << "List Elements: ";
     for (int number : numbers)
     {
-        cout << number << ", ";
+        cout << number << "->";
     }
 
     return 0;
